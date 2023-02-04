@@ -1,5 +1,7 @@
+minikube start
 Kubectl get pods
 kubectl get deployments
 kubectl get services
 Kubectl delete pods
 Kubectl edit pods
+
